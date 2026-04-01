@@ -1,0 +1,4 @@
+http://fake-bank-login.com@192.168.0.1
+https://in.pinterest.com/
+https://www.instagram.com/accounts/login/?hl=en
+http://g00gle-login-test.local
